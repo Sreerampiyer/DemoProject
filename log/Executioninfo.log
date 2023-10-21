@@ -1,0 +1,71 @@
+21-10-2023 19:18:04  INFO CallWrapperUsingValLine:53 - T02: Login verification test case started
+21-10-2023 19:18:04  INFO CallWrapperUsingValLine:68 - 13: 'launchBrowser' wrapper in use
+21-10-2023 19:18:04  INFO CallWrapperUsingValLine:81 - No Locator detail received or BULK file
+21-10-2023 19:18:04  INFO CallWrapperUsingValLine:84 - 'https://www.saucedemo.com/' data for processing
+21-10-2023 19:18:04  INFO CallWrapperUsingValLine:86 - 'chrome' value for processing
+21-10-2023 19:18:04  INFO CallWrapperUsingValLine:151 - 2 Argument method /data,value1/
+21-10-2023 19:18:06  INFO CallWrapperUsingValLine:68 - 14: 'enterTextById' wrapper in use
+21-10-2023 19:18:06  INFO CallWrapperUsingValLine:72 - 'Login' Page property file will be retrieved
+21-10-2023 19:18:06  INFO CallWrapperUsingValLine:75 - 'user-name' locator value is retrieved
+21-10-2023 19:18:06  INFO CallWrapperUsingValLine:84 - 'standard_user' data for processing
+21-10-2023 19:18:06  INFO CallWrapperUsingValLine:86 - '' value for processing
+21-10-2023 19:18:06  INFO CallWrapperUsingValLine:131 - 2 Argument method /locator,data/
+21-10-2023 19:18:06  INFO CallWrapperUsingValLine:68 - 15: 'enterTextById' wrapper in use
+21-10-2023 19:18:06  INFO CallWrapperUsingValLine:72 - 'Login' Page property file will be retrieved
+21-10-2023 19:18:06  INFO CallWrapperUsingValLine:75 - 'password' locator value is retrieved
+21-10-2023 19:18:06  INFO CallWrapperUsingValLine:84 - 'secret_sauce' data for processing
+21-10-2023 19:18:06  INFO CallWrapperUsingValLine:86 - '' value for processing
+21-10-2023 19:18:06  INFO CallWrapperUsingValLine:131 - 2 Argument method /locator,data/
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:68 - 16: 'clickAttrById' wrapper in use
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:72 - 'Login' Page property file will be retrieved
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:75 - 'login-button' locator value is retrieved
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:84 - 'Login' data for processing
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:86 - '' value for processing
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:131 - 2 Argument method /locator,data/
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:68 - 17: 'clickById' wrapper in use
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:72 - 'Login' Page property file will be retrieved
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:75 - 'add-to-cart-sauce-labs-backpack' locator value is retrieved
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:84 - '' data for processing
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:86 - '' value for processing
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:106 - 1 Argument method /locator/
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:68 - 18: 'verifyTextByXpath' wrapper in use
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:72 - 'Login' Page property file will be retrieved
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:75 - '//*[@id="inventory_container"]/div/div[1]/div[2]/div[2]/div' locator value is retrieved
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:84 - '$29.99' data for processing
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:86 - '' value for processing
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:131 - 2 Argument method /locator,data/
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:68 - 19: 'clickByClassName' wrapper in use
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:72 - 'Login' Page property file will be retrieved
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:75 - 'inventory_item_img' locator value is retrieved
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:84 - '' data for processing
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:86 - '' value for processing
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:106 - 1 Argument method /locator/
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:68 - 20: 'clickByName' wrapper in use
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:72 - 'Login' Page property file will be retrieved
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:75 - 'back-to-products' locator value is retrieved
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:84 - '' data for processing
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:86 - '' value for processing
+21-10-2023 19:18:07  INFO CallWrapperUsingValLine:106 - 1 Argument method /locator/
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:68 - 21: 'clickByXpath' wrapper in use
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:72 - 'Login' Page property file will be retrieved
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:75 - '//*[@id="item_4_img_link"]/img' locator value is retrieved
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:84 - '' data for processing
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:86 - '' value for processing
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:106 - 1 Argument method /locator/
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:68 - 22: 'clickById' wrapper in use
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:72 - 'Login' Page property file will be retrieved
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:75 - 'react-burger-menu-btn' locator value is retrieved
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:84 - '' data for processing
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:86 - '' value for processing
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:106 - 1 Argument method /locator/
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:68 - 23: 'clickById' wrapper in use
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:72 - 'Login' Page property file will be retrieved
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:75 - 'logout_sidebar_link' locator value is retrieved
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:84 - '' data for processing
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:86 - '' value for processing
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:106 - 1 Argument method /locator/
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:68 - 24: 'quitBrowser' wrapper in use
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:81 - No Locator detail received or BULK file
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:84 - '' data for processing
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:86 - '' value for processing
+21-10-2023 19:18:08  INFO CallWrapperUsingValLine:101 - 0 Argument method

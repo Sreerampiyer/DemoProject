@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sauce Demo Lab]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Regression(failed)">
+    <classes>
+      <class name="keywordDrivenExecute.FieldValidateScripts">
+        <methods>
+          <include name="runScripts"/>
+        </methods>
+      </class> <!-- keywordDrivenExecute.FieldValidateScripts -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [Sauce Demo Lab] -->
